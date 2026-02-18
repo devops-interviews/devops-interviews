@@ -1,4 +1,4 @@
-Hi Everyone, My name is Alex and I'm a DevOps/Software Engineer. During last year I had a couple of interviews at big tech plus a few other tier 2-3 companies. I collected all that plus other questions that I found on glassdoor, blind etc in this github repo. I've added my own video explanations to solve those questions.
+Hi, I'm Alex, a DevOps/Software Engineer. Over the past year, I interviewed at **50+ companies**, including Google, Amazon, Apple, and other FAANG/Big Tech firms, for **DevOps and SRE positions**. I collected every **hands-on interview question** I was asked, along with questions sourced from Glassdoor, Blind, and engineering blogs. This repo covers **106 real DevOps interview questions** across **Kubernetes, Docker, Linux, CI/CD (GitHub Actions), Networking, Git, and Security**, each with a detailed video walkthrough showing how to solve it step by step.
 
 I hope this will help you to prepare and pass. If you ever feel like thanking me just Star the repository.
 
@@ -6,7 +6,7 @@ I hope this will help you to prepare and pass. If you ever feel like thanking me
   <img src="pht.png" alt="DevOps Interview Preparation"/>
 </p>
 
-# DevOps Interview Preparation
+# DevOps Interview Questions (Hands-on + CI/CD + Kubernetes + Docker + Linux + Networking + Git + Security)
 
 A comprehensive collection of **106 interview questions** and answers for DevOps engineering positions.
 
